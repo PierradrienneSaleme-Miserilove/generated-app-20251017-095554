@@ -4,7 +4,7 @@ A sophisticated e-commerce and consulting website for women's fashion and Campus
 
 Saro Chic & Conseil is a sophisticated, minimalist e-commerce and service website designed for Saro Services. The platform elegantly showcases a curated collection of women's beauty accessories and dresses, while also offering specialized consulting services for the Campus France application process. The design prioritizes a visually stunning, warm, and inviting user experience, blending product sales and professional services into a single, cohesive brand identity. The application will be built with a mobile-first approach, ensuring a seamless experience across all devices, and will feature beautiful micro-interactions and animations to delight the user.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/PierradrienneSaleme-Miserilove/generated-app-20251017-095554)
 
 ## ✨ Key Features
 
@@ -81,4 +81,4 @@ This will trigger the build process and deploy the application using the configu
 
 Alternatively, you can connect your GitHub repository to Cloudflare Pages for continuous deployment.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/PierradrienneSaleme-Miserilove/generated-app-20251017-095554)
